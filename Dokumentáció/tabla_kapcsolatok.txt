@@ -1,0 +1,13 @@
+Az adatbázis táblái között az alábbi kapcsolatok találhatók:
+
+- A felhasznalok és rendelesek táblák között egy-több kapcsolat van, mivel egy felhasználó több rendelést is leadhat.
+- A rendelesek és rendeles_tetelek között egy-több kapcsolat van, mivel egy rendelés több tételt tartalmazhat.
+- A rendeles_tetelek kapcsolódik a termekek és meretek táblákhoz, így meghatározza a rendelt terméket és annak méretét.
+- A termekek és meretek között több-több kapcsolat van, amelyet a raktar tábla valósít meg.
+- A kategoria és termekek között egy-több kapcsolat van.
+- A jogosultsagok és felhasznalok között egy-több kapcsolat van.
+
+- A csapatok és stadionok között kapcsolat van, mivel egy stadion tartozhat egy csapathoz.
+- A meccsek tábla kapcsolatban áll a csapatokkal (hazai és vendég csapat) és a stadionokkal.
+- A meccsek és utazasok között egy-több kapcsolat van.
+- A foglalasok tábla kapcsolódik a felhasznalok, utazasok és szallasok táblákhoz.
