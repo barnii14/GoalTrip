@@ -1,0 +1,6 @@
+A GoalTrip rendszer adatbázisa egy relációs adatmodellre épül, amely a webshop és az utazásszervező funkciók adatkezelését biztosítja.
+
+Az adatbázis külön táblákban tárolja a felhasználók, termékek, rendelések, csapatok, stadionok, meccsek, utazások és foglalások adatait. 
+Az egyes táblák között idegen kulcsok (foreign key) biztosítják a kapcsolatokat, ezáltal fenntartva az adatok integritását.
+
+Az adatbázis célja, hogy hatékonyan kezelje a felhasználói rendeléseket, a raktárkészletet, valamint az utazási csomagokhoz kapcsolódó foglalásokat.
