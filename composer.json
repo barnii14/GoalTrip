@@ -1,0 +1,22 @@
+{
+    "name": "goaltrip/api",
+    "description": "Goaltrip backend API",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "firebase/php-jwt": "^7.0",
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "autoload": {
+    "psr-4": {
+        "Config\\": "config/",
+        "Core\\": "core/",
+        "Controllers\\": "controllers/",
+        "Models\\": "models/",
+        "Repositories\\": "repositories/",
+        "Middlewares\\": "middlewares/",
+        "Utils\\": "utils/"
+    }
+}
+}
