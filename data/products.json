@@ -1,0 +1,2814 @@
+[
+  {
+    "id": "argentine-primera-division-boca-juniors-home",
+    "league": "Argentine Primera División",
+    "leagueSlug": "argentine-primera-division",
+    "team": "Boca Juniors",
+    "teamSlug": "boca-juniors",
+    "kitType": "home",
+    "name": "Boca Juniors Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/argentine-primera-division/boca-juniors/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "argentine-primera-division-boca-juniors-away",
+    "league": "Argentine Primera División",
+    "leagueSlug": "argentine-primera-division",
+    "team": "Boca Juniors",
+    "teamSlug": "boca-juniors",
+    "kitType": "away",
+    "name": "Boca Juniors Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/argentine-primera-division/boca-juniors/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "argentine-primera-division-river-plate-home",
+    "league": "Argentine Primera División",
+    "leagueSlug": "argentine-primera-division",
+    "team": "River Plate",
+    "teamSlug": "river-plate",
+    "kitType": "home",
+    "name": "River Plate Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/argentine-primera-division/river-plate/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "argentine-primera-division-river-plate-away",
+    "league": "Argentine Primera División",
+    "leagueSlug": "argentine-primera-division",
+    "team": "River Plate",
+    "teamSlug": "river-plate",
+    "kitType": "away",
+    "name": "River Plate Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/argentine-primera-division/river-plate/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "belgian-pro-league-club-brugge-home",
+    "league": "Belgian Pro League",
+    "leagueSlug": "belgian-pro-league",
+    "team": "Club Brugge",
+    "teamSlug": "club-brugge",
+    "kitType": "home",
+    "name": "Club Brugge Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/belgian-pro-league/club-brugge/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "belgian-pro-league-club-brugge-away",
+    "league": "Belgian Pro League",
+    "leagueSlug": "belgian-pro-league",
+    "team": "Club Brugge",
+    "teamSlug": "club-brugge",
+    "kitType": "away",
+    "name": "Club Brugge Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/belgian-pro-league/club-brugge/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "belgian-pro-league-genk-home",
+    "league": "Belgian Pro League",
+    "leagueSlug": "belgian-pro-league",
+    "team": "Genk",
+    "teamSlug": "genk",
+    "kitType": "home",
+    "name": "Genk Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/belgian-pro-league/genk/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "belgian-pro-league-genk-away",
+    "league": "Belgian Pro League",
+    "leagueSlug": "belgian-pro-league",
+    "team": "Genk",
+    "teamSlug": "genk",
+    "kitType": "away",
+    "name": "Genk Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/belgian-pro-league/genk/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "belgian-pro-league-royal-antwerp-home",
+    "league": "Belgian Pro League",
+    "leagueSlug": "belgian-pro-league",
+    "team": "Royal Antwerp",
+    "teamSlug": "royal-antwerp",
+    "kitType": "home",
+    "name": "Royal Antwerp Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/belgian-pro-league/royal-antwerp/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "belgian-pro-league-royal-antwerp-away",
+    "league": "Belgian Pro League",
+    "leagueSlug": "belgian-pro-league",
+    "team": "Royal Antwerp",
+    "teamSlug": "royal-antwerp",
+    "kitType": "away",
+    "name": "Royal Antwerp Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/belgian-pro-league/royal-antwerp/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "belgian-pro-league-rsc-anderlecht-home",
+    "league": "Belgian Pro League",
+    "leagueSlug": "belgian-pro-league",
+    "team": "RSC Anderlecht",
+    "teamSlug": "rsc-anderlecht",
+    "kitType": "home",
+    "name": "RSC Anderlecht Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/belgian-pro-league/rsc-anderlecht/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "belgian-pro-league-rsc-anderlecht-away",
+    "league": "Belgian Pro League",
+    "leagueSlug": "belgian-pro-league",
+    "team": "RSC Anderlecht",
+    "teamSlug": "rsc-anderlecht",
+    "kitType": "away",
+    "name": "RSC Anderlecht Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/belgian-pro-league/rsc-anderlecht/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "belgian-pro-league-union-saint-gilloise-home",
+    "league": "Belgian Pro League",
+    "leagueSlug": "belgian-pro-league",
+    "team": "Union Saint Gilloise",
+    "teamSlug": "union-saint-gilloise",
+    "kitType": "home",
+    "name": "Union Saint Gilloise Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/belgian-pro-league/union-saint-gilloise/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "belgian-pro-league-union-saint-gilloise-away",
+    "league": "Belgian Pro League",
+    "leagueSlug": "belgian-pro-league",
+    "team": "Union Saint Gilloise",
+    "teamSlug": "union-saint-gilloise",
+    "kitType": "away",
+    "name": "Union Saint Gilloise Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/belgian-pro-league/union-saint-gilloise/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "bundesliga-bayer-leverkusen-home",
+    "league": "Bundesliga",
+    "leagueSlug": "bundesliga",
+    "team": "Bayer Leverkusen",
+    "teamSlug": "bayer-leverkusen",
+    "kitType": "home",
+    "name": "Bayer Leverkusen Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/bundesliga/bayer-leverkusen/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "bundesliga-bayer-leverkusen-away",
+    "league": "Bundesliga",
+    "leagueSlug": "bundesliga",
+    "team": "Bayer Leverkusen",
+    "teamSlug": "bayer-leverkusen",
+    "kitType": "away",
+    "name": "Bayer Leverkusen Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/bundesliga/bayer-leverkusen/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "bundesliga-bayern-munchen-home",
+    "league": "Bundesliga",
+    "leagueSlug": "bundesliga",
+    "team": "Bayern Munchen",
+    "teamSlug": "bayern-munchen",
+    "kitType": "home",
+    "name": "Bayern Munchen Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/bundesliga/bayern-munchen/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "bundesliga-bayern-munchen-away",
+    "league": "Bundesliga",
+    "leagueSlug": "bundesliga",
+    "team": "Bayern Munchen",
+    "teamSlug": "bayern-munchen",
+    "kitType": "away",
+    "name": "Bayern Munchen Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/bundesliga/bayern-munchen/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "bundesliga-bayern-munchen-special",
+    "league": "Bundesliga",
+    "leagueSlug": "bundesliga",
+    "team": "Bayern Munchen",
+    "teamSlug": "bayern-munchen",
+    "kitType": "special",
+    "name": "Bayern Munchen Harmadik mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/bundesliga/bayern-munchen/third.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "bundesliga-borussia-dortmund-home",
+    "league": "Bundesliga",
+    "leagueSlug": "bundesliga",
+    "team": "Borussia Dortmund",
+    "teamSlug": "borussia-dortmund",
+    "kitType": "home",
+    "name": "Borussia Dortmund Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/bundesliga/borussia-dortmund/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "bundesliga-borussia-dortmund-away",
+    "league": "Bundesliga",
+    "leagueSlug": "bundesliga",
+    "team": "Borussia Dortmund",
+    "teamSlug": "borussia-dortmund",
+    "kitType": "away",
+    "name": "Borussia Dortmund Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/bundesliga/borussia-dortmund/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "bundesliga-rb-leipzig-home",
+    "league": "Bundesliga",
+    "leagueSlug": "bundesliga",
+    "team": "RB Leipzig",
+    "teamSlug": "rb-leipzig",
+    "kitType": "home",
+    "name": "RB Leipzig Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/bundesliga/rb-leipzig/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "bundesliga-rb-leipzig-away",
+    "league": "Bundesliga",
+    "leagueSlug": "bundesliga",
+    "team": "RB Leipzig",
+    "teamSlug": "rb-leipzig",
+    "kitType": "away",
+    "name": "RB Leipzig Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/bundesliga/rb-leipzig/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "campeonato-brasileiro-serie-a-flamengo-home",
+    "league": "Campeonato Brasileiro Série A",
+    "leagueSlug": "campeonato-brasileiro-serie-a",
+    "team": "Flamengo",
+    "teamSlug": "flamengo",
+    "kitType": "home",
+    "name": "Flamengo Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/campeonato-brasileiro-serie-a/flamengo/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "campeonato-brasileiro-serie-a-flamengo-away",
+    "league": "Campeonato Brasileiro Série A",
+    "leagueSlug": "campeonato-brasileiro-serie-a",
+    "team": "Flamengo",
+    "teamSlug": "flamengo",
+    "kitType": "away",
+    "name": "Flamengo Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/campeonato-brasileiro-serie-a/flamengo/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "campeonato-brasileiro-serie-a-flamengo-special",
+    "league": "Campeonato Brasileiro Série A",
+    "leagueSlug": "campeonato-brasileiro-serie-a",
+    "team": "Flamengo",
+    "teamSlug": "flamengo",
+    "kitType": "special",
+    "name": "Flamengo Harmadik mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/campeonato-brasileiro-serie-a/flamengo/third.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "campeonato-brasileiro-serie-a-fluminense-home",
+    "league": "Campeonato Brasileiro Série A",
+    "leagueSlug": "campeonato-brasileiro-serie-a",
+    "team": "Fluminense",
+    "teamSlug": "fluminense",
+    "kitType": "home",
+    "name": "Fluminense Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/campeonato-brasileiro-serie-a/fluminense/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "campeonato-brasileiro-serie-a-fluminense-away",
+    "league": "Campeonato Brasileiro Série A",
+    "leagueSlug": "campeonato-brasileiro-serie-a",
+    "team": "Fluminense",
+    "teamSlug": "fluminense",
+    "kitType": "away",
+    "name": "Fluminense Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/campeonato-brasileiro-serie-a/fluminense/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "campeonato-brasileiro-serie-a-fluminense-special",
+    "league": "Campeonato Brasileiro Série A",
+    "leagueSlug": "campeonato-brasileiro-serie-a",
+    "team": "Fluminense",
+    "teamSlug": "fluminense",
+    "kitType": "special",
+    "name": "Fluminense Harmadik mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/campeonato-brasileiro-serie-a/fluminense/third.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "campeonato-brasileiro-serie-a-palmeiras-home",
+    "league": "Campeonato Brasileiro Série A",
+    "leagueSlug": "campeonato-brasileiro-serie-a",
+    "team": "Palmeiras",
+    "teamSlug": "palmeiras",
+    "kitType": "home",
+    "name": "Palmeiras Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/campeonato-brasileiro-serie-a/palmeiras/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "campeonato-brasileiro-serie-a-palmeiras-away",
+    "league": "Campeonato Brasileiro Série A",
+    "leagueSlug": "campeonato-brasileiro-serie-a",
+    "team": "Palmeiras",
+    "teamSlug": "palmeiras",
+    "kitType": "away",
+    "name": "Palmeiras Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/campeonato-brasileiro-serie-a/palmeiras/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "campeonato-brasileiro-serie-a-palmeiras-special",
+    "league": "Campeonato Brasileiro Série A",
+    "leagueSlug": "campeonato-brasileiro-serie-a",
+    "team": "Palmeiras",
+    "teamSlug": "palmeiras",
+    "kitType": "special",
+    "name": "Palmeiras Harmadik mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/campeonato-brasileiro-serie-a/palmeiras/third.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "campeonato-brasileiro-serie-a-santos-home",
+    "league": "Campeonato Brasileiro Série A",
+    "leagueSlug": "campeonato-brasileiro-serie-a",
+    "team": "Santos",
+    "teamSlug": "santos",
+    "kitType": "home",
+    "name": "Santos Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/campeonato-brasileiro-serie-a/santos/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "campeonato-brasileiro-serie-a-santos-away",
+    "league": "Campeonato Brasileiro Série A",
+    "leagueSlug": "campeonato-brasileiro-serie-a",
+    "team": "Santos",
+    "teamSlug": "santos",
+    "kitType": "away",
+    "name": "Santos Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/campeonato-brasileiro-serie-a/santos/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "campeonato-brasileiro-serie-a-santos-special",
+    "league": "Campeonato Brasileiro Série A",
+    "leagueSlug": "campeonato-brasileiro-serie-a",
+    "team": "Santos",
+    "teamSlug": "santos",
+    "kitType": "special",
+    "name": "Santos Harmadik mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/campeonato-brasileiro-serie-a/santos/third.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "eredivisie-ajax-home",
+    "league": "Eredivisie",
+    "leagueSlug": "eredivisie",
+    "team": "Ajax",
+    "teamSlug": "ajax",
+    "kitType": "home",
+    "name": "Ajax Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/eredivisie/ajax/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "eredivisie-ajax-away",
+    "league": "Eredivisie",
+    "leagueSlug": "eredivisie",
+    "team": "Ajax",
+    "teamSlug": "ajax",
+    "kitType": "away",
+    "name": "Ajax Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/eredivisie/ajax/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "eredivisie-feyenoord-home",
+    "league": "Eredivisie",
+    "leagueSlug": "eredivisie",
+    "team": "Feyenoord",
+    "teamSlug": "feyenoord",
+    "kitType": "home",
+    "name": "Feyenoord Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/eredivisie/feyenoord/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "eredivisie-feyenoord-away",
+    "league": "Eredivisie",
+    "leagueSlug": "eredivisie",
+    "team": "Feyenoord",
+    "teamSlug": "feyenoord",
+    "kitType": "away",
+    "name": "Feyenoord Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/eredivisie/feyenoord/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "eredivisie-psv-eindhoven-home",
+    "league": "Eredivisie",
+    "leagueSlug": "eredivisie",
+    "team": "PSV Eindhoven",
+    "teamSlug": "psv-eindhoven",
+    "kitType": "home",
+    "name": "PSV Eindhoven Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/eredivisie/psv-eindhoven/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "eredivisie-psv-eindhoven-away",
+    "league": "Eredivisie",
+    "leagueSlug": "eredivisie",
+    "team": "PSV Eindhoven",
+    "teamSlug": "psv-eindhoven",
+    "kitType": "away",
+    "name": "PSV Eindhoven Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/eredivisie/psv-eindhoven/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "fizz-liga-nb-i-debreceni-vsc-home",
+    "league": "Fizz Liga (NB I)",
+    "leagueSlug": "fizz-liga-nb-i",
+    "team": "Debreceni VSC",
+    "teamSlug": "debreceni-vsc",
+    "kitType": "home",
+    "name": "Debreceni VSC Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/fizz-liga-nb-i/debreceni-vsc/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "fizz-liga-nb-i-diosgyori-vtk-home",
+    "league": "Fizz Liga (NB I)",
+    "leagueSlug": "fizz-liga-nb-i",
+    "team": "Diosgyori VTK",
+    "teamSlug": "diosgyori-vtk",
+    "kitType": "home",
+    "name": "Diosgyori VTK Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/fizz-liga-nb-i/diosgyori-vtk/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "fizz-liga-nb-i-eto-fc-gyor-home",
+    "league": "Fizz Liga (NB I)",
+    "leagueSlug": "fizz-liga-nb-i",
+    "team": "ETO FC Gyor",
+    "teamSlug": "eto-fc-gyor",
+    "kitType": "home",
+    "name": "ETO FC Gyor Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/fizz-liga-nb-i/eto-fc-gyor/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "fizz-liga-nb-i-ferencvarosi-tc-home",
+    "league": "Fizz Liga (NB I)",
+    "leagueSlug": "fizz-liga-nb-i",
+    "team": "Ferencvarosi TC",
+    "teamSlug": "ferencvarosi-tc",
+    "kitType": "home",
+    "name": "Ferencvarosi TC Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/fizz-liga-nb-i/ferencvarosi-tc/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "fizz-liga-nb-i-ferencvarosi-tc-away",
+    "league": "Fizz Liga (NB I)",
+    "leagueSlug": "fizz-liga-nb-i",
+    "team": "Ferencvarosi TC",
+    "teamSlug": "ferencvarosi-tc",
+    "kitType": "away",
+    "name": "Ferencvarosi TC Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/fizz-liga-nb-i/ferencvarosi-tc/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "fizz-liga-nb-i-kazincbarcika-sc-home",
+    "league": "Fizz Liga (NB I)",
+    "leagueSlug": "fizz-liga-nb-i",
+    "team": "Kazincbarcika SC",
+    "teamSlug": "kazincbarcika-sc",
+    "kitType": "home",
+    "name": "Kazincbarcika SC Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/fizz-liga-nb-i/kazincbarcika-sc/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "fizz-liga-nb-i-kisvarda-fc-home",
+    "league": "Fizz Liga (NB I)",
+    "leagueSlug": "fizz-liga-nb-i",
+    "team": "Kisvarda FC",
+    "teamSlug": "kisvarda-fc",
+    "kitType": "home",
+    "name": "Kisvarda FC Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/fizz-liga-nb-i/kisvarda-fc/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "fizz-liga-nb-i-mtk-budapest-home",
+    "league": "Fizz Liga (NB I)",
+    "leagueSlug": "fizz-liga-nb-i",
+    "team": "MTK Budapest",
+    "teamSlug": "mtk-budapest",
+    "kitType": "home",
+    "name": "MTK Budapest Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/fizz-liga-nb-i/mtk-budapest/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "fizz-liga-nb-i-nyiregyhaza-spartacus-fc-home",
+    "league": "Fizz Liga (NB I)",
+    "leagueSlug": "fizz-liga-nb-i",
+    "team": "Nyiregyhaza Spartacus FC",
+    "teamSlug": "nyiregyhaza-spartacus-fc",
+    "kitType": "home",
+    "name": "Nyiregyhaza Spartacus FC Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/fizz-liga-nb-i/nyiregyhaza-spartacus-fc/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "fizz-liga-nb-i-paksi-fc-home",
+    "league": "Fizz Liga (NB I)",
+    "leagueSlug": "fizz-liga-nb-i",
+    "team": "Paksi FC",
+    "teamSlug": "paksi-fc",
+    "kitType": "home",
+    "name": "Paksi FC Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/fizz-liga-nb-i/paksi-fc/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "fizz-liga-nb-i-puskas-akademia-fc-home",
+    "league": "Fizz Liga (NB I)",
+    "leagueSlug": "fizz-liga-nb-i",
+    "team": "Puskas Akademia FC",
+    "teamSlug": "puskas-akademia-fc",
+    "kitType": "home",
+    "name": "Puskas Akademia FC Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/fizz-liga-nb-i/puskas-akademia-fc/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "fizz-liga-nb-i-ujpest-fc-home",
+    "league": "Fizz Liga (NB I)",
+    "leagueSlug": "fizz-liga-nb-i",
+    "team": "Ujpest FC",
+    "teamSlug": "ujpest-fc",
+    "kitType": "home",
+    "name": "Ujpest FC Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/fizz-liga-nb-i/ujpest-fc/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "fizz-liga-nb-i-zalaegerszegi-te-fc-home",
+    "league": "Fizz Liga (NB I)",
+    "leagueSlug": "fizz-liga-nb-i",
+    "team": "Zalaegerszegi TE FC",
+    "teamSlug": "zalaegerszegi-te-fc",
+    "kitType": "home",
+    "name": "Zalaegerszegi TE FC Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/fizz-liga-nb-i/zalaegerszegi-te-fc/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "laliga-athletic-club-home",
+    "league": "LaLiga",
+    "leagueSlug": "laliga",
+    "team": "Athletic Club",
+    "teamSlug": "athletic-club",
+    "kitType": "home",
+    "name": "Athletic Club Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/laliga/athletic-club/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "laliga-athletic-club-away",
+    "league": "LaLiga",
+    "leagueSlug": "laliga",
+    "team": "Athletic Club",
+    "teamSlug": "athletic-club",
+    "kitType": "away",
+    "name": "Athletic Club Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/laliga/athletic-club/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "laliga-atletico-madrid-home",
+    "league": "LaLiga",
+    "leagueSlug": "laliga",
+    "team": "Atletico Madrid",
+    "teamSlug": "atletico-madrid",
+    "kitType": "home",
+    "name": "Atletico Madrid Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/laliga/atletico-madrid/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "laliga-atletico-madrid-away",
+    "league": "LaLiga",
+    "leagueSlug": "laliga",
+    "team": "Atletico Madrid",
+    "teamSlug": "atletico-madrid",
+    "kitType": "away",
+    "name": "Atletico Madrid Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/laliga/atletico-madrid/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "laliga-fc-barcelona-home",
+    "league": "LaLiga",
+    "leagueSlug": "laliga",
+    "team": "FC Barcelona",
+    "teamSlug": "fc-barcelona",
+    "kitType": "home",
+    "name": "FC Barcelona Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/laliga/fc-barcelona/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "laliga-fc-barcelona-away",
+    "league": "LaLiga",
+    "leagueSlug": "laliga",
+    "team": "FC Barcelona",
+    "teamSlug": "fc-barcelona",
+    "kitType": "away",
+    "name": "FC Barcelona Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/laliga/fc-barcelona/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "laliga-fc-barcelona-special",
+    "league": "LaLiga",
+    "leagueSlug": "laliga",
+    "team": "FC Barcelona",
+    "teamSlug": "fc-barcelona",
+    "kitType": "special",
+    "name": "FC Barcelona Harmadik mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/laliga/fc-barcelona/third.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "laliga-real-betis-home",
+    "league": "LaLiga",
+    "leagueSlug": "laliga",
+    "team": "Real Betis",
+    "teamSlug": "real-betis",
+    "kitType": "home",
+    "name": "Real Betis Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/laliga/real-betis/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "laliga-real-betis-away",
+    "league": "LaLiga",
+    "leagueSlug": "laliga",
+    "team": "Real Betis",
+    "teamSlug": "real-betis",
+    "kitType": "away",
+    "name": "Real Betis Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/laliga/real-betis/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "laliga-real-madrid-home",
+    "league": "LaLiga",
+    "leagueSlug": "laliga",
+    "team": "Real Madrid",
+    "teamSlug": "real-madrid",
+    "kitType": "home",
+    "name": "Real Madrid Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/laliga/real-madrid/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "laliga-real-madrid-away",
+    "league": "LaLiga",
+    "leagueSlug": "laliga",
+    "team": "Real Madrid",
+    "teamSlug": "real-madrid",
+    "kitType": "away",
+    "name": "Real Madrid Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/laliga/real-madrid/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "laliga-real-madrid-special",
+    "league": "LaLiga",
+    "leagueSlug": "laliga",
+    "team": "Real Madrid",
+    "teamSlug": "real-madrid",
+    "kitType": "special",
+    "name": "Real Madrid Harmadik mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/laliga/real-madrid/third.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "laliga-real-sociedad-home",
+    "league": "LaLiga",
+    "leagueSlug": "laliga",
+    "team": "Real Sociedad",
+    "teamSlug": "real-sociedad",
+    "kitType": "home",
+    "name": "Real Sociedad Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/laliga/real-sociedad/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "laliga-real-sociedad-away",
+    "league": "LaLiga",
+    "leagueSlug": "laliga",
+    "team": "Real Sociedad",
+    "teamSlug": "real-sociedad",
+    "kitType": "away",
+    "name": "Real Sociedad Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/laliga/real-sociedad/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "laliga-villarreal-cf-home",
+    "league": "LaLiga",
+    "leagueSlug": "laliga",
+    "team": "Villarreal CF",
+    "teamSlug": "villarreal-cf",
+    "kitType": "home",
+    "name": "Villarreal CF Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/laliga/villarreal-cf/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "laliga-villarreal-cf-away",
+    "league": "LaLiga",
+    "leagueSlug": "laliga",
+    "team": "Villarreal CF",
+    "teamSlug": "villarreal-cf",
+    "kitType": "away",
+    "name": "Villarreal CF Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/laliga/villarreal-cf/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "ligue-1-as-monaco-home",
+    "league": "Ligue 1",
+    "leagueSlug": "ligue-1",
+    "team": "AS Monaco",
+    "teamSlug": "as-monaco",
+    "kitType": "home",
+    "name": "AS Monaco Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/ligue-1/as-monaco/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "ligue-1-as-monaco-away",
+    "league": "Ligue 1",
+    "leagueSlug": "ligue-1",
+    "team": "AS Monaco",
+    "teamSlug": "as-monaco",
+    "kitType": "away",
+    "name": "AS Monaco Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/ligue-1/as-monaco/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "ligue-1-lille-osc-home",
+    "league": "Ligue 1",
+    "leagueSlug": "ligue-1",
+    "team": "Lille OSC",
+    "teamSlug": "lille-osc",
+    "kitType": "home",
+    "name": "Lille OSC Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/ligue-1/lille-osc/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "ligue-1-lille-osc-away",
+    "league": "Ligue 1",
+    "leagueSlug": "ligue-1",
+    "team": "Lille OSC",
+    "teamSlug": "lille-osc",
+    "kitType": "away",
+    "name": "Lille OSC Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/ligue-1/lille-osc/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "ligue-1-olympique-de-marseille-home",
+    "league": "Ligue 1",
+    "leagueSlug": "ligue-1",
+    "team": "Olympique DE Marseille",
+    "teamSlug": "olympique-de-marseille",
+    "kitType": "home",
+    "name": "Olympique DE Marseille Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/ligue-1/olympique-de-marseille/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "ligue-1-olympique-de-marseille-away",
+    "league": "Ligue 1",
+    "leagueSlug": "ligue-1",
+    "team": "Olympique DE Marseille",
+    "teamSlug": "olympique-de-marseille",
+    "kitType": "away",
+    "name": "Olympique DE Marseille Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/ligue-1/olympique-de-marseille/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "ligue-1-olympique-lyonnais-home",
+    "league": "Ligue 1",
+    "leagueSlug": "ligue-1",
+    "team": "Olympique Lyonnais",
+    "teamSlug": "olympique-lyonnais",
+    "kitType": "home",
+    "name": "Olympique Lyonnais Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/ligue-1/olympique-lyonnais/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "ligue-1-olympique-lyonnais-away",
+    "league": "Ligue 1",
+    "leagueSlug": "ligue-1",
+    "team": "Olympique Lyonnais",
+    "teamSlug": "olympique-lyonnais",
+    "kitType": "away",
+    "name": "Olympique Lyonnais Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/ligue-1/olympique-lyonnais/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "ligue-1-paris-saint-germain-home",
+    "league": "Ligue 1",
+    "leagueSlug": "ligue-1",
+    "team": "Paris Saint Germain",
+    "teamSlug": "paris-saint-germain",
+    "kitType": "home",
+    "name": "Paris Saint Germain Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/ligue-1/paris-saint-germain/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "ligue-1-paris-saint-germain-away",
+    "league": "Ligue 1",
+    "leagueSlug": "ligue-1",
+    "team": "Paris Saint Germain",
+    "teamSlug": "paris-saint-germain",
+    "kitType": "away",
+    "name": "Paris Saint Germain Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/ligue-1/paris-saint-germain/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "ligue-1-paris-saint-germain-special",
+    "league": "Ligue 1",
+    "leagueSlug": "ligue-1",
+    "team": "Paris Saint Germain",
+    "teamSlug": "paris-saint-germain",
+    "kitType": "special",
+    "name": "Paris Saint Germain Harmadik mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/ligue-1/paris-saint-germain/third.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "major-league-soccer-mls-inter-miami-home",
+    "league": "Major League Soccer (MLS)",
+    "leagueSlug": "major-league-soccer-mls",
+    "team": "Inter Miami",
+    "teamSlug": "inter-miami",
+    "kitType": "home",
+    "name": "Inter Miami Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/major-league-soccer-mls/inter-miami/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "major-league-soccer-mls-inter-miami-away",
+    "league": "Major League Soccer (MLS)",
+    "leagueSlug": "major-league-soccer-mls",
+    "team": "Inter Miami",
+    "teamSlug": "inter-miami",
+    "kitType": "away",
+    "name": "Inter Miami Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/major-league-soccer-mls/inter-miami/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "premier-league-arsenal-fc-home",
+    "league": "Premier League",
+    "leagueSlug": "premier-league",
+    "team": "Arsenal FC",
+    "teamSlug": "arsenal-fc",
+    "kitType": "home",
+    "name": "Arsenal FC Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/premier-league/arsenal-fc/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "premier-league-arsenal-fc-away",
+    "league": "Premier League",
+    "leagueSlug": "premier-league",
+    "team": "Arsenal FC",
+    "teamSlug": "arsenal-fc",
+    "kitType": "away",
+    "name": "Arsenal FC Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/premier-league/arsenal-fc/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "premier-league-arsenal-fc-special",
+    "league": "Premier League",
+    "leagueSlug": "premier-league",
+    "team": "Arsenal FC",
+    "teamSlug": "arsenal-fc",
+    "kitType": "special",
+    "name": "Arsenal FC Harmadik mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/premier-league/arsenal-fc/third.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "premier-league-aston-villa-home",
+    "league": "Premier League",
+    "leagueSlug": "premier-league",
+    "team": "Aston Villa",
+    "teamSlug": "aston-villa",
+    "kitType": "home",
+    "name": "Aston Villa Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/premier-league/aston-villa/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "premier-league-aston-villa-away",
+    "league": "Premier League",
+    "leagueSlug": "premier-league",
+    "team": "Aston Villa",
+    "teamSlug": "aston-villa",
+    "kitType": "away",
+    "name": "Aston Villa Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/premier-league/aston-villa/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "premier-league-chelsea-fc-home",
+    "league": "Premier League",
+    "leagueSlug": "premier-league",
+    "team": "Chelsea FC",
+    "teamSlug": "chelsea-fc",
+    "kitType": "home",
+    "name": "Chelsea FC Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/premier-league/chelsea-fc/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "premier-league-chelsea-fc-away",
+    "league": "Premier League",
+    "leagueSlug": "premier-league",
+    "team": "Chelsea FC",
+    "teamSlug": "chelsea-fc",
+    "kitType": "away",
+    "name": "Chelsea FC Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/premier-league/chelsea-fc/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "premier-league-chelsea-fc-special",
+    "league": "Premier League",
+    "leagueSlug": "premier-league",
+    "team": "Chelsea FC",
+    "teamSlug": "chelsea-fc",
+    "kitType": "special",
+    "name": "Chelsea FC Harmadik mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/premier-league/chelsea-fc/third.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "premier-league-liverpool-fc-home",
+    "league": "Premier League",
+    "leagueSlug": "premier-league",
+    "team": "Liverpool FC",
+    "teamSlug": "liverpool-fc",
+    "kitType": "home",
+    "name": "Liverpool FC Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/premier-league/liverpool-fc/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "premier-league-liverpool-fc-away",
+    "league": "Premier League",
+    "leagueSlug": "premier-league",
+    "team": "Liverpool FC",
+    "teamSlug": "liverpool-fc",
+    "kitType": "away",
+    "name": "Liverpool FC Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/premier-league/liverpool-fc/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "premier-league-liverpool-fc-special",
+    "league": "Premier League",
+    "leagueSlug": "premier-league",
+    "team": "Liverpool FC",
+    "teamSlug": "liverpool-fc",
+    "kitType": "special",
+    "name": "Liverpool FC Harmadik mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/premier-league/liverpool-fc/third.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "premier-league-manchester-city-home",
+    "league": "Premier League",
+    "leagueSlug": "premier-league",
+    "team": "Manchester City",
+    "teamSlug": "manchester-city",
+    "kitType": "home",
+    "name": "Manchester City Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/premier-league/manchester-city/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "premier-league-manchester-city-away",
+    "league": "Premier League",
+    "leagueSlug": "premier-league",
+    "team": "Manchester City",
+    "teamSlug": "manchester-city",
+    "kitType": "away",
+    "name": "Manchester City Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/premier-league/manchester-city/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "premier-league-manchester-city-special",
+    "league": "Premier League",
+    "leagueSlug": "premier-league",
+    "team": "Manchester City",
+    "teamSlug": "manchester-city",
+    "kitType": "special",
+    "name": "Manchester City Harmadik mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/premier-league/manchester-city/third.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "premier-league-manchester-united-home",
+    "league": "Premier League",
+    "leagueSlug": "premier-league",
+    "team": "Manchester United",
+    "teamSlug": "manchester-united",
+    "kitType": "home",
+    "name": "Manchester United Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/premier-league/manchester-united/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "premier-league-manchester-united-away",
+    "league": "Premier League",
+    "leagueSlug": "premier-league",
+    "team": "Manchester United",
+    "teamSlug": "manchester-united",
+    "kitType": "away",
+    "name": "Manchester United Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/premier-league/manchester-united/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "premier-league-manchester-united-special",
+    "league": "Premier League",
+    "leagueSlug": "premier-league",
+    "team": "Manchester United",
+    "teamSlug": "manchester-united",
+    "kitType": "special",
+    "name": "Manchester United Harmadik mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/premier-league/manchester-united/third.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "premier-league-tottenham-hotspur-home",
+    "league": "Premier League",
+    "leagueSlug": "premier-league",
+    "team": "Tottenham Hotspur",
+    "teamSlug": "tottenham-hotspur",
+    "kitType": "home",
+    "name": "Tottenham Hotspur Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/premier-league/tottenham-hotspur/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "premier-league-tottenham-hotspur-away",
+    "league": "Premier League",
+    "leagueSlug": "premier-league",
+    "team": "Tottenham Hotspur",
+    "teamSlug": "tottenham-hotspur",
+    "kitType": "away",
+    "name": "Tottenham Hotspur Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/premier-league/tottenham-hotspur/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "premier-league-tottenham-hotspur-special",
+    "league": "Premier League",
+    "leagueSlug": "premier-league",
+    "team": "Tottenham Hotspur",
+    "teamSlug": "tottenham-hotspur",
+    "kitType": "special",
+    "name": "Tottenham Hotspur Harmadik mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/premier-league/tottenham-hotspur/third.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "primeira-liga-benfica-home",
+    "league": "Primeira Liga",
+    "leagueSlug": "primeira-liga",
+    "team": "Benfica",
+    "teamSlug": "benfica",
+    "kitType": "home",
+    "name": "Benfica Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/primeira-liga/benfica/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "primeira-liga-benfica-away",
+    "league": "Primeira Liga",
+    "leagueSlug": "primeira-liga",
+    "team": "Benfica",
+    "teamSlug": "benfica",
+    "kitType": "away",
+    "name": "Benfica Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/primeira-liga/benfica/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "primeira-liga-fc-porto-home",
+    "league": "Primeira Liga",
+    "leagueSlug": "primeira-liga",
+    "team": "FC Porto",
+    "teamSlug": "fc-porto",
+    "kitType": "home",
+    "name": "FC Porto Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/primeira-liga/fc-porto/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "primeira-liga-fc-porto-away",
+    "league": "Primeira Liga",
+    "leagueSlug": "primeira-liga",
+    "team": "FC Porto",
+    "teamSlug": "fc-porto",
+    "kitType": "away",
+    "name": "FC Porto Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/primeira-liga/fc-porto/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "primeira-liga-sc-braga-home",
+    "league": "Primeira Liga",
+    "leagueSlug": "primeira-liga",
+    "team": "SC Braga",
+    "teamSlug": "sc-braga",
+    "kitType": "home",
+    "name": "SC Braga Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/primeira-liga/sc-braga/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "primeira-liga-sc-braga-away",
+    "league": "Primeira Liga",
+    "leagueSlug": "primeira-liga",
+    "team": "SC Braga",
+    "teamSlug": "sc-braga",
+    "kitType": "away",
+    "name": "SC Braga Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/primeira-liga/sc-braga/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "primeira-liga-sporting-cp-home",
+    "league": "Primeira Liga",
+    "leagueSlug": "primeira-liga",
+    "team": "Sporting CP",
+    "teamSlug": "sporting-cp",
+    "kitType": "home",
+    "name": "Sporting CP Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/primeira-liga/sporting-cp/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "primeira-liga-sporting-cp-away",
+    "league": "Primeira Liga",
+    "leagueSlug": "primeira-liga",
+    "team": "Sporting CP",
+    "teamSlug": "sporting-cp",
+    "kitType": "away",
+    "name": "Sporting CP Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/primeira-liga/sporting-cp/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "saudi-pro-league-al-nassr-home",
+    "league": "Saudi Pro League",
+    "leagueSlug": "saudi-pro-league",
+    "team": "AL Nassr",
+    "teamSlug": "al-nassr",
+    "kitType": "home",
+    "name": "AL Nassr Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/saudi-pro-league/al-nassr/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "saudi-pro-league-al-nassr-away",
+    "league": "Saudi Pro League",
+    "leagueSlug": "saudi-pro-league",
+    "team": "AL Nassr",
+    "teamSlug": "al-nassr",
+    "kitType": "away",
+    "name": "AL Nassr Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/saudi-pro-league/al-nassr/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "scottish-premiership-celtic-home",
+    "league": "Scottish Premiership",
+    "leagueSlug": "scottish-premiership",
+    "team": "Celtic",
+    "teamSlug": "celtic",
+    "kitType": "home",
+    "name": "Celtic Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/scottish-premiership/celtic/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "scottish-premiership-celtic-away",
+    "league": "Scottish Premiership",
+    "leagueSlug": "scottish-premiership",
+    "team": "Celtic",
+    "teamSlug": "celtic",
+    "kitType": "away",
+    "name": "Celtic Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/scottish-premiership/celtic/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "scottish-premiership-rangers-home",
+    "league": "Scottish Premiership",
+    "leagueSlug": "scottish-premiership",
+    "team": "Rangers",
+    "teamSlug": "rangers",
+    "kitType": "home",
+    "name": "Rangers Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/scottish-premiership/rangers/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "scottish-premiership-rangers-away",
+    "league": "Scottish Premiership",
+    "leagueSlug": "scottish-premiership",
+    "team": "Rangers",
+    "teamSlug": "rangers",
+    "kitType": "away",
+    "name": "Rangers Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/scottish-premiership/rangers/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "serie-a-atalanta-home",
+    "league": "Serie A",
+    "leagueSlug": "serie-a",
+    "team": "Atalanta",
+    "teamSlug": "atalanta",
+    "kitType": "home",
+    "name": "Atalanta Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/serie-a/atalanta/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "serie-a-atalanta-away",
+    "league": "Serie A",
+    "leagueSlug": "serie-a",
+    "team": "Atalanta",
+    "teamSlug": "atalanta",
+    "kitType": "away",
+    "name": "Atalanta Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/serie-a/atalanta/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "serie-a-como-home",
+    "league": "Serie A",
+    "leagueSlug": "serie-a",
+    "team": "Como",
+    "teamSlug": "como",
+    "kitType": "home",
+    "name": "Como Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/serie-a/como/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "serie-a-como-away",
+    "league": "Serie A",
+    "leagueSlug": "serie-a",
+    "team": "Como",
+    "teamSlug": "como",
+    "kitType": "away",
+    "name": "Como Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/serie-a/como/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "serie-a-fiorentina-home",
+    "league": "Serie A",
+    "leagueSlug": "serie-a",
+    "team": "Fiorentina",
+    "teamSlug": "fiorentina",
+    "kitType": "home",
+    "name": "Fiorentina Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/serie-a/fiorentina/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "serie-a-fiorentina-away",
+    "league": "Serie A",
+    "leagueSlug": "serie-a",
+    "team": "Fiorentina",
+    "teamSlug": "fiorentina",
+    "kitType": "away",
+    "name": "Fiorentina Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/serie-a/fiorentina/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "serie-a-inter-home",
+    "league": "Serie A",
+    "leagueSlug": "serie-a",
+    "team": "Inter",
+    "teamSlug": "inter",
+    "kitType": "home",
+    "name": "Inter Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/serie-a/inter/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "serie-a-inter-away",
+    "league": "Serie A",
+    "leagueSlug": "serie-a",
+    "team": "Inter",
+    "teamSlug": "inter",
+    "kitType": "away",
+    "name": "Inter Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/serie-a/inter/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "serie-a-inter-special",
+    "league": "Serie A",
+    "leagueSlug": "serie-a",
+    "team": "Inter",
+    "teamSlug": "inter",
+    "kitType": "special",
+    "name": "Inter Harmadik mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/serie-a/inter/third.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "serie-a-juventus-home",
+    "league": "Serie A",
+    "leagueSlug": "serie-a",
+    "team": "Juventus",
+    "teamSlug": "juventus",
+    "kitType": "home",
+    "name": "Juventus Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/serie-a/juventus/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "serie-a-juventus-away",
+    "league": "Serie A",
+    "leagueSlug": "serie-a",
+    "team": "Juventus",
+    "teamSlug": "juventus",
+    "kitType": "away",
+    "name": "Juventus Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/serie-a/juventus/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "serie-a-juventus-special",
+    "league": "Serie A",
+    "leagueSlug": "serie-a",
+    "team": "Juventus",
+    "teamSlug": "juventus",
+    "kitType": "special",
+    "name": "Juventus Harmadik mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/serie-a/juventus/third.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "serie-a-lazio-home",
+    "league": "Serie A",
+    "leagueSlug": "serie-a",
+    "team": "Lazio",
+    "teamSlug": "lazio",
+    "kitType": "home",
+    "name": "Lazio Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/serie-a/lazio/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "serie-a-lazio-away",
+    "league": "Serie A",
+    "leagueSlug": "serie-a",
+    "team": "Lazio",
+    "teamSlug": "lazio",
+    "kitType": "away",
+    "name": "Lazio Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/serie-a/lazio/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "serie-a-milan-home",
+    "league": "Serie A",
+    "leagueSlug": "serie-a",
+    "team": "Milan",
+    "teamSlug": "milan",
+    "kitType": "home",
+    "name": "Milan Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/serie-a/milan/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "serie-a-milan-away",
+    "league": "Serie A",
+    "leagueSlug": "serie-a",
+    "team": "Milan",
+    "teamSlug": "milan",
+    "kitType": "away",
+    "name": "Milan Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/serie-a/milan/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "serie-a-milan-special",
+    "league": "Serie A",
+    "leagueSlug": "serie-a",
+    "team": "Milan",
+    "teamSlug": "milan",
+    "kitType": "special",
+    "name": "Milan Harmadik mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/serie-a/milan/third.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "serie-a-napoli-home",
+    "league": "Serie A",
+    "leagueSlug": "serie-a",
+    "team": "Napoli",
+    "teamSlug": "napoli",
+    "kitType": "home",
+    "name": "Napoli Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/serie-a/napoli/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "serie-a-napoli-away",
+    "league": "Serie A",
+    "leagueSlug": "serie-a",
+    "team": "Napoli",
+    "teamSlug": "napoli",
+    "kitType": "away",
+    "name": "Napoli Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/serie-a/napoli/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "serie-a-napoli-special",
+    "league": "Serie A",
+    "leagueSlug": "serie-a",
+    "team": "Napoli",
+    "teamSlug": "napoli",
+    "kitType": "special",
+    "name": "Napoli Harmadik mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/serie-a/napoli/third.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "serie-a-roma-home",
+    "league": "Serie A",
+    "leagueSlug": "serie-a",
+    "team": "Roma",
+    "teamSlug": "roma",
+    "kitType": "home",
+    "name": "Roma Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/serie-a/roma/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "serie-a-roma-away",
+    "league": "Serie A",
+    "leagueSlug": "serie-a",
+    "team": "Roma",
+    "teamSlug": "roma",
+    "kitType": "away",
+    "name": "Roma Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/serie-a/roma/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "serie-a-roma-special",
+    "league": "Serie A",
+    "leagueSlug": "serie-a",
+    "team": "Roma",
+    "teamSlug": "roma",
+    "kitType": "special",
+    "name": "Roma Harmadik mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/serie-a/roma/third.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "superlig-besiktas-home",
+    "league": "Superlig",
+    "leagueSlug": "superlig",
+    "team": "Besiktas",
+    "teamSlug": "besiktas",
+    "kitType": "home",
+    "name": "Besiktas Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/superlig/besiktas/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "superlig-besiktas-away",
+    "league": "Superlig",
+    "leagueSlug": "superlig",
+    "team": "Besiktas",
+    "teamSlug": "besiktas",
+    "kitType": "away",
+    "name": "Besiktas Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/superlig/besiktas/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "superlig-fenerbahce-home",
+    "league": "Superlig",
+    "leagueSlug": "superlig",
+    "team": "Fenerbahce",
+    "teamSlug": "fenerbahce",
+    "kitType": "home",
+    "name": "Fenerbahce Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/superlig/fenerbahce/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "superlig-fenerbahce-away",
+    "league": "Superlig",
+    "leagueSlug": "superlig",
+    "team": "Fenerbahce",
+    "teamSlug": "fenerbahce",
+    "kitType": "away",
+    "name": "Fenerbahce Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/superlig/fenerbahce/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "superlig-galatasaray-home",
+    "league": "Superlig",
+    "leagueSlug": "superlig",
+    "team": "Galatasaray",
+    "teamSlug": "galatasaray",
+    "kitType": "home",
+    "name": "Galatasaray Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/superlig/galatasaray/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "superlig-galatasaray-away",
+    "league": "Superlig",
+    "leagueSlug": "superlig",
+    "team": "Galatasaray",
+    "teamSlug": "galatasaray",
+    "kitType": "away",
+    "name": "Galatasaray Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/superlig/galatasaray/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "superlig-trabzonspor-home",
+    "league": "Superlig",
+    "leagueSlug": "superlig",
+    "team": "Trabzonspor",
+    "teamSlug": "trabzonspor",
+    "kitType": "home",
+    "name": "Trabzonspor Hazai mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/superlig/trabzonspor/home.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": "superlig-trabzonspor-away",
+    "league": "Superlig",
+    "leagueSlug": "superlig",
+    "team": "Trabzonspor",
+    "teamSlug": "trabzonspor",
+    "kitType": "away",
+    "name": "Trabzonspor Vendég mez",
+    "price": 29990,
+    "currency": "HUF",
+    "image": "assets/kits/superlig/trabzonspor/away.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  }
+]
